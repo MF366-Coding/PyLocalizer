@@ -10,7 +10,7 @@ class RawLocalization:
     def __init__(self, formatting: Any, default_language: str, separator: str, *, encoding: str = 'utf-8'):
         if len(separator) != 1:
             raise ValueError('the separator must be exactly one character long')
-        
+
         self._formatting: Any = formatting
         self._SEPARATOR: str = separator
         self._cur_language_file: str = default_language

@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/PyLocalizer/All.py
+src/PyLocalizer/EntryFormatting.py
+src/PyLocalizer/WebLocalization.py
+src/PyLocalizer/__init__.py
+src/PyLocalizer.egg-info/PKG-INFO
+src/PyLocalizer.egg-info/SOURCES.txt
+src/PyLocalizer.egg-info/dependency_links.txt
+src/PyLocalizer.egg-info/top_level.txt
+src/PyLocalizer/_internal/JSONLocalization.py
+src/PyLocalizer/_internal/RawLocalization.py
+src/PyLocalizer/_internal/init.py

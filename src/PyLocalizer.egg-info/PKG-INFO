@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: PyLocalizer
+Version: 0.0.1
+Summary: A module that lets you change between locales mid-app.
+Author: MF366-Coding
+Project-URL: Github Repo, https://github.com/MF366-Coding/PyLocalizer
+Project-URL: Bug Tracker, https://github.com/MF366-Coding/PyLocalizer/issues
+Project-URL: Pull Requests, https://github.com/MF366-Coding/PyLocalizer/pulls
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PyLocalizer
+A Python module that serves as a straight-forward and simple way to add locales to your programs.
