@@ -1,9 +1,6 @@
 """
-NCapybaraLib; By NorbCodes.
-
-A small library with a bunch of functions and thingies I made for fun.
-
-https://pypi.org/project/NCapybaraLib/
+## All
+Submodule of PyLocalizer by MF366
 """
 
 from . import internal
