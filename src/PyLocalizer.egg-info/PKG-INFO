@@ -1,6 +1,6 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.2
 Name: PyLocalizer
-Version: 0.0.1
+Version: 0.0.4
 Summary: A module that lets you change between locales mid-app.
 Author: MF366-Coding
 Project-URL: Github Repo, https://github.com/MF366-Coding/PyLocalizer

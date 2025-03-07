@@ -71,6 +71,9 @@ class JSONLocalization:
     
     def __getitem__(self, entry: str) -> str:
         return self.get_formatted_entry(entry) # [i] simple use of get_formatted_entry: no special entries and no if error cases
+        
+    def __len__(self) -> int:
+        return len(self._cur_language_data)
     
     def __str__(self) -> str:
         return self._cur_language_file

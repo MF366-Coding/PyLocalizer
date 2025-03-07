@@ -3,7 +3,7 @@
 Submodule of PyLocalizer by MF366
 """
 
-from ._internal.JSONLocalization import JSONLocalization
+from .internal.JSONLocalization import JSONLocalization
 from typing import Any
 import requests
 
